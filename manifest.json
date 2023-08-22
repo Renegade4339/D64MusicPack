@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§8A music pack with tracks from DOOM 64 and other fanmade tracks wth the same style. See the credits file in the pack.",
+    "name": "§6§lDOOM 64 Music Pack",
+    "uuid": "c55876d3-9766-49d4-b200-f6060f417dfe",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      30
+    ]
+  },
+  "modules": [
+    {
+      "description": "MUSIC64",
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "uuid": "fe2e90e6-6345-44fc-ba4c-f4dc300386f0",
+      "type": "resources"
+    }
+  ]
+}
