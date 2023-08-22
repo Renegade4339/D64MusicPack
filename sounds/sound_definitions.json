@@ -1,0 +1,245 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+  "music.gamed": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/aspectsofthevile",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/bleepspawn",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/bloodredshadows",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/cdmap98",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/cdmap99",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/chrystallinechaos",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/collisioncourse",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/d64menu",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/darkecho",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/darksideofthemoon",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/depthsofmadness",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/desiccation",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/drownedmarshes",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/fragmentedworlds",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/hecticunderground",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/hellistatic",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/lamentationoftheforgotten",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/mentalityextermination",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/musamb01",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/musamb04de",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/musamb04dr",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/musamb12",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/noescape",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/othersideofmadness",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/perfecthate",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/relentlesscoil",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/reloadedworlds",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/shadowswatching",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/spacesbetween",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/terminated",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/thedamned",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/themadness",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/therottedfoul",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/thething",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/torturedtransmission",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/unholypassage",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/voicesintheblood",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/waitforit",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/warped",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/warpedhive",
+        "stream": true,
+        "volume": 0.35
+      }
+    ]
+  },
+  "music.menud": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/d64menu",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/terminated",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/reloadedworlds",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/bloodredshadows",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/cdmap98",
+        "stream": true,
+        "volume": 0.35
+      },
+      {
+        "name": "music/cdmap99",
+        "stream": true,
+        "volume": 0.35
+      }
+     ]
+  }
+ }
+}
