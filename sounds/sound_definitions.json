@@ -240,6 +240,26 @@
         "volume": 0.35
       }
      ]
+  },
+  "music.endd": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/musamb04dr",
+        "stream": true,
+        "volume": 0.35
+      }
+     ]
+  },
+  "music.bossd": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "music/musamb04de",
+        "stream": true,
+        "volume": 0.35
+      }
+     ]
   }
  }
 }

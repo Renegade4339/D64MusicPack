@@ -1,33 +1,33 @@
 {
   "game": {
     "event_name" : "music.gamed",
-    "min_delay": 60,
-    "max_delay": 180
+    "min_delay": 120,
+    "max_delay": 420
   },
   "water": {
     "event_name": "music.gamed",
-    "min_delay": 60,
-    "max_delay": 300
+    "min_delay": 180,
+    "max_delay": 540
   },
   "creative": {
     "event_name" : "music.gamed",
-    "min_delay": 60,
-    "max_delay": 180
+    "min_delay": 120,
+    "max_delay": 420
   },
   "end": {
-    "event_name" : "music.gamed",
-    "min_delay": 60,
-    "max_delay": 180
+    "event_name" : "music.endd",
+    "min_delay": 120,
+    "max_delay": 420
   },
   "endboss": {
-    "event_name" : "music.gamed",
-    "min_delay": 60,
-    "max_delay": 180
+    "event_name" : "music.bossd",
+    "min_delay": 120,
+    "max_delay": 420
   },
   "nether": {
     "event_name" : "music.gamed",
-    "min_delay": 60,
-    "max_delay": 180
+    "min_delay": 120,
+    "max_delay": 420
   },
   "menu": {
     "event_name" : "music.menud",
@@ -36,232 +36,232 @@
   },
   "soulsand_valley": {
     "event_name" : "music.gamed",
-    "min_delay": 60,
-    "max_delay": 180
+    "min_delay": 120,
+    "max_delay": 420
   },
   "hell": {
     "event_name" : "music.gamed",
-    "min_delay": 60,
-    "max_delay": 180
+    "min_delay": 120,
+    "max_delay": 420
   },
   "crimson_forest": {
     "event_name" : "music.gamed",
-    "min_delay": 60,
-    "max_delay": 180
+    "min_delay": 120,
+    "max_delay": 420
   },
     "dripstone_caves": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "grove": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "jagged_peaks": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "lush_caves": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "meadow": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "frozen_peaks": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "snowy_slopes": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "stony_peaks": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "deep_dark": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "swampland": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "swampland_mutated": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "mangrove_swamp": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "bamboo_jungle": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "bamboo_jungle_hills": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "birch_forest": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "birch_forest_hills": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "roofed_forest": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "roofed_forest_mutated": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "forest": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "flower_forest": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "jungle": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "jungle_hills": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "jungle_mutated": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "mesa_plateau": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "mega_taiga": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "redwood_taiga_mutated": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "redwood_taiga_hills_mutated": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "birch_forest_mutated": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "mesa_plateau_mutated": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "cherry_grove": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "desert": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "desert_hills": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "desert_hills_mutated": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "flower_forest": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "mesa": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "mesa_plateau": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "mesa_plateau_mutated": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "jungle": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "jungle_hills": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "jungle_hills_mutated": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "jungle_edge": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "bamboo_jungle": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     },
     "bamboo_jungle_hills": {
         "event_name": "music.gamed",
-        "min_delay": 60,
-        "max_delay": 180
+        "min_delay": 120,
+        "max_delay": 420
     }
 }
